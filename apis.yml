@@ -4,7 +4,7 @@ description: >-
   Mondelez International is a Fortune 500 multinational confectionery, food, and beverage
   company that owns iconic snack brands including Oreo, Cadbury, Milka, Toblerone,
   Trident, Ritz, and Triscuit.
-type: Contract
+kind: contract
 position: Consuming
 access: 3rd-Party
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
