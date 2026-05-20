@@ -20,6 +20,10 @@ url: >-
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: GitHubOrganization
+    url: https://github.com/mondelez-ctiso
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/mondelezinternational
   - type: Website
     url: https://www.mondelezinternational.com
 maintainers:
