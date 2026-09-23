@@ -1,7 +1,9 @@
 ---
 title: Mondelez uses AI to animate family photos for Vietnamese ...
 url: https://www.marketingdive.com/news/mondelez-uses-ai-to-animate-family-photos-for-vietnamese-holiday/607640/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Mondelez International" press release artificial intelligence'
 position: 5
 source: serpapi-google

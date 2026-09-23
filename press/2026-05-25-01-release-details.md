@@ -1,7 +1,9 @@
 ---
 title: Release Details
 url: https://ir.mondelezinternational.com/news-releases/news-release-details/mondelez-international-joins-forces-accenture-and-publicis
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Mondelez International" press release artificial intelligence'
 position: 1
 source: serpapi-google

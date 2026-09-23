@@ -1,7 +1,9 @@
 ---
 title: Mondelēz International Joins Forces with Accenture and ...
 url: https://newsroom.accenture.com/news/2024/mondelez-international-joins-forces-with-accenture-and-publicis-groupe-to-advance-ai-powered-marketing-capabilities
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Mondelez International" press release artificial intelligence'
 position: 3
 source: serpapi-google
